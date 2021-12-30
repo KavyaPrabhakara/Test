@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-30T14:53:24 IST" name="Default suite" finished-at="2021-12-30T14:53:24 IST" duration-ms="48">
+    <groups>
+    </groups>
+    <test started-at="2021-12-30T14:53:24 IST" name="Default test" finished-at="2021-12-30T14:53:24 IST" duration-ms="48">
+      <class name="com.crm.contact.Test0">
+        <test-method signature="createContact()[pri:0, instance:com.crm.contact.Test0@3cc2931c]" started-at="2021-12-30T14:53:24 IST" name="createContact" finished-at="2021-12-30T14:53:24 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+        <test-method signature="deleteContact()[pri:0, instance:com.crm.contact.Test0@3cc2931c]" started-at="2021-12-30T14:53:24 IST" name="deleteContact" finished-at="2021-12-30T14:53:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContact -->
+        <test-method signature="modifyContact()[pri:0, instance:com.crm.contact.Test0@3cc2931c]" started-at="2021-12-30T14:53:24 IST" name="modifyContact" finished-at="2021-12-30T14:53:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyContact -->
+      </class> <!-- com.crm.contact.Test0 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
